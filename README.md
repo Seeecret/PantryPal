@@ -1,13 +1,13 @@
 # PantryPal UI Replacement
 
-Replace the old `shelflife.py` and `requirements.txt` with these files.
+Replace the old `pantrypal.py` and `requirements.txt` with these files.
 
-Keep your existing `shelflife.db` if you have already added food.
+Keep your existing `pantrypal.db` if you have already added food.
 
 Install:
 `py -m pip install -r requirements.txt`
 
 Run:
-`py shelflife.py`
+`py pantrpaly.py`
 
 This version uses CustomTkinter for a modern dark dashboard UI.
