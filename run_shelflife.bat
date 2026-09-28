@@ -1,4 +1,4 @@
 @echo off
 cd /d "%~dp0"
-py shelflife.py
+py pantrypal.py
 pause
